@@ -1,0 +1,23 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 18 Sep 2019 11:41:08 at http://bdevs.net/zomata/zomata/index-3.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://bdevs.net/zomata/zomata/index-3.html -O1 "C:\My Web Sites\hens" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:45:44	Error: 	"Not Found" (404) at link bdevs.net/zomata/zomata/site.webmanifest (from bdevs.net/zomata/zomata/index-3.html)
+12:02:49	Error: 	"Not Found" (404) at link bdevs.net/zomata/zomata/css/owl.video.play.png (from bdevs.net/zomata/zomata/css/owl.carousel.min.css)
+12:02:49	Warning: 	File not parsed, looks like binary: bdevs.net/zomata/zomata/fonts/Flaticon.woff2
+12:02:49	Warning: 	File not parsed, looks like binary: bdevs.net/zomata/zomata/fonts/Flaticon.ttf
+12:02:49	Warning: 	File not parsed, looks like binary: bdevs.net/zomata/zomata/fonts/fa-brands-400.woff2
+12:02:49	Warning: 	File not parsed, looks like binary: bdevs.net/zomata/zomata/fonts/fa-brands-400.ttf
+12:02:49	Warning: 	File not parsed, looks like binary: bdevs.net/zomata/zomata/fonts/fa-regular-400.woff2
+12:02:49	Warning: 	File not parsed, looks like binary: bdevs.net/zomata/zomata/fonts/fa-regular-400.ttf
+12:02:49	Warning: 	File not parsed, looks like binary: bdevs.net/zomata/zomata/fonts/fa-solid-900.woff2
+12:02:49	Warning: 	File not parsed, looks like binary: bdevs.net/zomata/zomata/fonts/fa-solid-900.ttf
+12:02:49	Warning: 	File not parsed, looks like binary: bdevs.net/zomata/zomata/fonts/dripicons-v2.ttf
+12:02:49	Warning: 	File not parsed, looks like binary: bdevs.net/zomata/zomata/fonts/themify.ttf?-fvbane
+
+HTTrack Website Copier/3.49-2 mirror complete in 21 minutes 49 seconds : 284 links scanned, 281 files written (34804963 bytes overall) [32675679 bytes received at 24962 bytes/sec], 3414336 bytes transferred using HTTP compression in 72 files, ratio 33%, 2.9 requests per connection
+(2 errors, 10 warnings, 0 messages)
